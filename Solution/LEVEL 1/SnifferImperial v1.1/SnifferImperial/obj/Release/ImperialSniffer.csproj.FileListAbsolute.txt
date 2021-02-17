@@ -1,0 +1,11 @@
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial\bin\Release\SnifferImperial.exe.config
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial\bin\Release\SnifferImperial.exe
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial\bin\Release\SnifferImperial.pdb
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial\obj\Release\SnifferImperial.exe
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial\obj\Release\SnifferImperial.pdb
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\bin\Release\SnifferImperial.exe.config
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\bin\Release\SnifferImperial.exe
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\bin\Release\SnifferImperial.pdb
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\obj\Release\ImperialSniffer.csprojAssemblyReference.cache
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\obj\Release\SnifferImperial.exe
+C:\Users\pvasquez\Documents\MELI\Pruebas Proyectos\SnifferImperial v1.1\SnifferImperial\obj\Release\SnifferImperial.pdb
